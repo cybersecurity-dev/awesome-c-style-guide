@@ -18,7 +18,9 @@
 
 
 ### List of C Coding Guide
-
+- [C Style Guidelines](https://www.cs.umd.edu/~nelson/classes/resources/cstyleguide/)
+- [C Coding Standard](https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html)
+- [Linux kernel coding style](https://www.kernel.org/doc/html/v4.10/process/coding-style.html)
 
 ## 
 
