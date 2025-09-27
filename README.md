@@ -1,3 +1,7 @@
+<p align="center"><a href="https://en.wikipedia.org/wiki/C_standard">
+  <img width="10%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/C_logo.svg" />
+</a></p>
+
 # Awesome C [Style](https://en.wikipedia.org/wiki/Programming_style) Guide [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
 <p align="center">
